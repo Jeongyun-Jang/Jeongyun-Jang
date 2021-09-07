@@ -13,5 +13,4 @@
 ## Blog For Learning
 - 📝[TIL && WIL BLOG](https://velog.io/@jeongyunjang)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongyun-Jang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeongyun-Jang)](https://github.com/anuraghazra/github-readme-stats)
