@@ -7,7 +7,7 @@
 - ✉ : jjyun.front.dev@gmail.com
 
 ## Primary Tech Stacks
-- Front-end: <img alt="React" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=#F7DF1E"/>
+- Front-end: https://img.shields.io/github/languages/top/beygee/survive#F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=#F7DF1E"/> https://img.shields.io/github/languages/top/beygee/survive#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 - Back-end:
 - Deployment:
 - Version Control: 
