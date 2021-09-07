@@ -7,7 +7,7 @@
 - ✉ : jjyun.front.dev@gmail.com
 
 ## Primary Tech Stacks
-- Front-end: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+- Front-end: <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" />
 - Back-end:
 - Deployment:
 - Version Control: 
