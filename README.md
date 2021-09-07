@@ -1,13 +1,18 @@
-### Hi there 👋
+### 🙏 Welcome To My GitHub!
 
-- 🔭 I’m Front-end Engineer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeongyun-Jang)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+## Personal Info
+- 
+- ✉ : jjyun.front.dev@gmail.com
+
+## Primary Tech Stacks
+- Front-end: <img alt="React" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=#F7DF1E"/>
+- Back-end:
+- Deployment:
+- Version Control: 
+- Communication: 
+
+## Blog For Learning
+- 📝[TIL && WIL BLOG](https://velog.io/@jeongyunjang)<br/>
+
