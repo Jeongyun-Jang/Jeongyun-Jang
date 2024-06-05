@@ -9,8 +9,3 @@
 - Deployment:<img src="https://img.shields.io/badge/-AWS S3-232F3E?logo=aws&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-AWS Cloudfront-535D6C?logo=aws&logoColor=white&style=flat"/>
 - Version Control: <img src="https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=flat"/>
 - Communication: <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Notion-38B2AC?logo=Notion&logoColor=white&style=flat"/>
-
-## Blog For Learning
-- 📝[TIL && WIL BLOG](https://velog.io/@jeongyunjang)<br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeongyun-Jang)](https://github.com/anuraghazra/github-readme-stats)
